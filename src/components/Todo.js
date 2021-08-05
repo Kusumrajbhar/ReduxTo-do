@@ -22,6 +22,7 @@ const Todo = () => {
 
       <div>
         <input
+          className=""
           type="text"
           name="input"
           placeholder="Add Items"
